@@ -1,6 +1,6 @@
 # BuyWise 2.0 — AI-Powered Purchase Intelligence SaaS
 
-BuyWise is a high-performance full-stack web application designed to help consumers make confident purchasing decisions and avoid buyer's remorse. By aggregating reviews, forum sentiment, and specifications in real time, BuyWise parses telemetry indicators into definitive metrics: **Buy Score, Regret Score, and Community Trust Ratings**.
+BuyWise is a high-performance full-stack web application that helps consumers make confident purchasing decisions and avoid buyer's remorse. By aggregating reviews, forum sentiment, and specifications in real time, BuyWise parses telemetry indicators into definitive metrics: **Buy Score, Regret Score, and Community Trust Ratings**.
 
 ---
 
@@ -40,6 +40,6 @@ buywise-v2/
 *   **Frontend**: Next.js 15, TypeScript, Tailwind CSS, Lucide icons, Framer Motion, Recharts.
 *   **Backend**: Python, FastAPI, Pydantic v2, SQLAlchemy, Uvicorn.
 *   **Databases**: PostgreSQL (SQLAlchemy ORM), Redis (caching and logs).
-*   **AI Models**: OpenAI (gpt-4o-mini) and Google Gemini (gemini-1.5-flash) compatibility.
+*   **AI Models**: Compatibility with OpenAI (gpt-4o-mini) and Google Gemini (gemini-1.5-flash).
 
 ---
