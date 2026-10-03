@@ -1,6 +1,6 @@
 # BuyWise 2.0 — AI-Powered Purchase Intelligence SaaS
 
-BuyWise is a high-performance full-stack web application designed to help consumers make confident purchasing decisions and avoid buyer's remorse. By aggregating reviews, forum sentiment, and specifications in real-time, BuyWise parses telemetry indicators into definitive metrics: **Buy Score, Regret Score, and Community Trust Ratings**.
+BuyWise is a high-performance full-stack web application designed to help consumers make confident purchasing decisions and avoid buyer's remorse. By aggregating reviews, forum sentiment, and specifications in real time, BuyWise parses telemetry indicators into definitive metrics: **Buy Score, Regret Score, and Community Trust Ratings**.
 
 ---
 
